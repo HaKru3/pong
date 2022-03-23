@@ -1,4 +1,3 @@
-# i am testing a change
 # setup
 import turtle
 
